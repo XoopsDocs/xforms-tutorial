@@ -1,21 +1,35 @@
 ### _XOOPS Documentation Series_
 ![](en/assets/logoXoops.jpg)
 
-# Module xLanguage
-#### for XOOPS 2.5.7
+# Module xForms
+#### for XOOPS 2.5.10+
+
+#### for PHP 7.2+
       
 ![](en/assets/logoModule.png)
             
 ## User Manual
 
-© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2021 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Module Purpose 
 
-This module is for .....
+xForms is a module for XOOPS to offer widely customizable web forms.
+
+This module allows the generation of different kinds of form elements e.g. text areas, check boxes for webmasters to create their "Contact Us" forms. Submitted information can be sent by email or through the private message system of XOOPS, and received by selected user group(s).
+
+**Some of the functions include:**
+
+* Ability to record data in the database.
+* Sending email (copied configurable) and private message
+* Management of attached files and images (including downloaded)
+* Multiple configurations form (descriptions, shipping methods, etc.).
+* Generation of reports for saved forms
+* Set start and end dates of validity
 
 ![](en/assets/image001.png)
-*Figure 1: Main view of the xLanguage Module (Admin side)*
+
+*Figure 1: Main view of the xForms Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
@@ -23,7 +37,7 @@ This module is for .....
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/xforms-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/xforms-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/xforms-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/xforms-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbook.io/xforms-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/xforms-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
